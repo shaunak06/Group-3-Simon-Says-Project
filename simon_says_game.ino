@@ -3,7 +3,7 @@ const int ledPinR =  13; //red led on pin 13
 const int buttonPinG = 3; //button for the red led on pin 3
 const int ledPinG =  12; //green led on pin 12
 const int buttonPinB = 2; //button for the red led on pin 2
-const int ledPinB =  11; //bue led on pin 11
+const int ledPinB =  11; //blue led on pin 11
 const int buzzer = 9; //buzzer on pin 9
 int rnd = -1;
 int i, j;
